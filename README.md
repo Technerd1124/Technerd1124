@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanshri</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">👩‍💻 Tech enthusiast
+always willing to learn new Technologies ...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technerd1124&label=Profile%20views&color=0e75b6&style=flat" alt="technerd1124" /> </p>
 
